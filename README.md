@@ -1,7 +1,7 @@
 # 🌦️ WeatherStation
 
 A full-stack weather application built for the **PM Accelerator AI Engineer
-Intern Technical Assessment** — both tracks completed (Frontend + Backend).
+Intern Technical Assessment** both tracks completed (Frontend + Backend).
 
 Built by **Adina Saif Ullah**
 
@@ -80,7 +80,7 @@ npm run dev
 
 Open http://localhost:5173
 
-That's it — both servers need to be running at the same time, in separate terminals.
+That's it both servers need to be running at the same time, in separate terminals.
 
 ---
 
@@ -139,7 +139,7 @@ Full request/response schemas: http://localhost:8000/docs (once running).
 ## 🌍 Why Open-Meteo?
 
 It's free, requires no signup or API key, and covers geocoding, live
-forecasts, and historical weather in one place — so anyone cloning this repo
+forecasts, and historical weather in one place so anyone cloning this repo
 can run it immediately with zero credential setup.
 
 ## 🗄️ Switching to PostgreSQL
@@ -148,7 +148,7 @@ can run it immediately with zero credential setup.
 export DATABASE_URL=postgresql://user:pass@localhost:5432/weatherdb
 ```
 
-The backend is fully database-agnostic via SQLAlchemy — no code changes needed.
+The backend is fully database-agnostic via SQLAlchemy no code changes needed.
 
 ---
 
@@ -161,7 +161,7 @@ _[Add your demo video link here before submitting]_
 ## 🏢 About PM Accelerator
 
 The Product Manager Accelerator Program is designed to support PM
-professionals through every stage of their career — from students breaking
+professionals through every stage of their career from students breaking
 into product management, to Directors and VPs of Product. It offers 1:1
 coaching, practical training, and real-world project experience.
 
